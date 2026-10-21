@@ -1,0 +1,5 @@
+npm.cmd install mysql2
+
+npm.cmd list mysql2
+
+node testeBanco.js
